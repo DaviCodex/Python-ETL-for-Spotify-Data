@@ -4,3 +4,7 @@ etlspotify/
 etlspotify/
 etlspotify/
 .env
+#Claude code
+CLAUDE.md
+.cache*
+
